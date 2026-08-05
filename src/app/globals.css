@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+:root {
+  --osu-scarlet: #BB0000;
+  --osu-gray: #666666;
+}
